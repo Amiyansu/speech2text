@@ -1,28 +1,28 @@
-# Text-to-Speech Project
+# Speech-to-Text Project
 
 ## Overview
 
-This project is a Text-to-Speech (TTS) application built using modern web development technologies. The application allows users to convert text input into audible speech output.
+This project is a Speech-to-Text (STT) application built using modern web development technologies. The application allows users to convert spoken input into text.
 
 ## Features
 
-- Convert text to speech
+- Convert speech to text
 - User-friendly interface
-- Real-time speech synthesis
+- Real-time speech recognition
 
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
 - **Web Vitals**: A set of metrics to measure the user experience of a web page.
-- **Web Speech API**: Used for speech synthesis and recognition (assumed for TTS functionality).
+- **Web Speech API**: Used for speech recognition (assumed for STT functionality).
 
 ## Installation
 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/text-to-speech-project.git
-   cd text-to-speech-project
+   git clone https://github.com/yourusername/speech-to-text-project.git
+   cd speech-to-text-project
 
 # Getting Started with Create React App
 
